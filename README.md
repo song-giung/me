@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**song-giung/song-giung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Backend Developer
+- Love Javascript/Typescript
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2018.02 - 2018.08 : 국비지원 학원(Java, Spring)
+- 2018.08 - 2019.03 : 솔루션 유지보수(Java, Spring)
+- 2020.07 ~ Now : 스타트업 1인 개발(Python, JS/TS, React native)
+
+### Currently
+
+- 2020.07 ~ 2021.01 : 운영중인 Node.js 서비스 Python/Django로 재구축
+- 2021.02 ~ 2021.03 : iOS/Android 앱 출시(React Native) & Django + DRF
+- 2021.05 ~ Now : 운영 서비스 유지보수 및 신규 서비스 제작 중(Typescript / NestJS)
