@@ -13,4 +13,4 @@
 
 - 2020.07 ~ 2021.01 : 운영중인 Node.js 서비스 Python/Django로 재구축
 - 2021.02 ~ 2021.03 : iOS/Android 앱 출시(React Native) & Django + DRF
-- 2021.05 ~ Now : 운영 서비스 유지보수 및 신규 서비스 제작 중(Typescript / NestJS)
+- 2021.05 ~ Now : 운영 서비스 유지보수 및 신규 서비스 제작 중(Typescript / NestJS + GraphQL)
