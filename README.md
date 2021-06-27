@@ -3,7 +3,7 @@
 - Backend Developer
 - Love Javascript/Typescript
 
-[![song-giung's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-giung)](https://github.com/anuraghazra/github-readme-stats)
+[![song-giung's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-giung&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Experience
