@@ -3,8 +3,8 @@
 - Backend Developer
 - Love Javascript/Typescript
 
-[![song-giung's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-giung&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song-giung)](https://github.com/song-giung/github-readme-stats)
+![song-giung's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-giung&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song-giung&hide=html,css&layout=compact)
 
 
 
