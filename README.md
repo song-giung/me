@@ -3,6 +3,9 @@
 - Backend Developer
 - Love Javascript/Typescript
 
+[![song-giung's GitHub stats](https://github-readme-stats.vercel.app/api?username=song-giung)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Experience
 
 - 2018.02 - 2018.08 : 국비지원 학원(Java, Spring)
