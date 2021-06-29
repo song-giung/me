@@ -10,7 +10,7 @@
 
 - 2018.02 - 2018.08 : 국비지원 학원(Java, Spring)
 - 2018.08 - 2019.03 : 솔루션 유지보수(Java, Spring)
-- 2020.07 ~ Now : 스타트업 1인 개발(Python, JS/TS, React native)
+- 2020.07 ~ Now : 스타트업 개발(Python, JS/TS, React native)
 
 ### Currently
 
