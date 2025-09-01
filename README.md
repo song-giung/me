@@ -5,9 +5,28 @@ Backend Developer
 **LInkedIn:** <https://www.linkedin.com/in/song-giung>
 
 ## **경력**
+### **쏘카**
+2025.07 ~ 재직중  
+
+Kotlin,Spring 기반 서버 애플리케이션 개발
+
+#### 1. 메일 발송 서비스 개선(Kotlin, Spring, AWS SES) ####
+
+기존 메일 발송 시스템의 응답 지연 문제(최대 5분)를 해결하기 위한 구조 개선
+
+- Blocking -> Non-Blocking 전환
+  - RestTemaplate -> WebClient, SesClient -> SesAsyncClient 변경
+  - 코루틴 기반으로 비동기 처리 적용
+- 이메일 인증 API 사용 최적화
+  - 이메일 유효성 검증 API(유료) 호출 결과를 db에 저장하여 중복 호출 제거
+  - 사용자 이메일 HMAC-SHA256 해시 처리하여 보안성 확보
+  - AWS SES Bounce 이벤트를 SQS로 수신 후 검증 결과 업데이트  
+  **성과**:
+  - 응답 속도 개선
+  - 유료 인증 API 사용량 절감
 
 ### **나인투원**  
-_2022.12 – 현재_
+2022.12 – 2025.07
 
 전기 자전거 서비스 쏘카일레클의 Django, Golang 기반 서버 애플리케이션 개발
 
