@@ -167,11 +167,11 @@ Java/Spring 기반의 문서 중앙화 솔루션 유지보수
 
 ## **기술 스택 (Tech Stack)**
 
-- **언어:** Python, Golang, TypeScript
+- **언어:** Kotlin, Python, Golang, TypeScript
 - **프론트:** React, React Native
-- **백엔드 프레임워크:** Django, Fiber
-- **데이터베이스:** PostgreSQL, Redis, MongoDB
-- **인프라 및 도구:** Docker, AWS (ECS Fargate, RDS, S3), Nginx, Git, CI/CD (GitHub Actions)
+- **백엔드 프레임워크:** Spring, Django, Fiber
+- **데이터베이스:** MySQL, PostgreSQL, Redis, MongoDB
+- **인프라 및 도구:** k8s, Docker, AWS, Git, CI/CD (GitHub Actions)
 
 ---
 
