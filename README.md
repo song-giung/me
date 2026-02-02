@@ -183,7 +183,7 @@ _2013.03 – 2015.03_
 ---
 
 ## **글쓰기**
-
+- [실물 면허증, 이제 휴대폰에 양보하세요](https://www.socarcorp.kr/blog/657)
 - [쏘카일레클과 Go](https://medium.com/elecle-bike/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4%EA%B3%BC-go-99f2d110c32c)
 
 ---
